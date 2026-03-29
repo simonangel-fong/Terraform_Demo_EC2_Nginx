@@ -1,4 +1,4 @@
-# Terraform AWS EC2 (User Data) Template - Nginx Server
+# Terraform Demo: EC2 (User Data) - Nginx Server
 
 A repo of template to provision EC2 instance to host an Nginx server.
 
